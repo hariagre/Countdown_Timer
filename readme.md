@@ -18,6 +18,7 @@
 
 ```
 git clone https://github.com/hariagre/Counter_Timer.git
+git clone https://github.com/hariagre/Counter_Timer.git
 ```
 
 - Go to the directory
